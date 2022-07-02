@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2F2E41;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+}
+
+header,
+footer {
+    background-color: #6C63FF;
+}
+
+header {
+    height: 80px;
+}
+
+section {
+    background-color: #FFF;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 52px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 100px 70px;
+   
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.card-img {
+    margin: 40px 0 36px;
+}
+
+
+.card-text span {
+    font-weight: 700;
+}
+
+.nav-link {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.card {
+    width: 370px;
+    border: 2px solid #E7E7E7;
+    border-radius: 5px;
+    padding: 46px 20px;
+}
+
+.link-icon {
+    margin-right: 10px;
+    
+}
+
